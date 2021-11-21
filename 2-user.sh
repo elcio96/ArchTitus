@@ -39,17 +39,20 @@ PKGS=(
 'nordic-kde-git'
 'nordic-theme'
 'noto-fonts-emoji'
+'ocs-url' # install packages from websites
 'papirus-icon-theme'
 'plasma-pa'
-'ocs-url' # install packages from websites
+'pulseaudio-equalizer-ladspa-git'
+'qbittorrent-enhanced-git'
 'sddm-nordic-theme-git'
+'snap-pac'
 'snapper-gui-git'
+'stacer'
 'ttf-droid'
 'ttf-hack'
 'ttf-meslo' # Nerdfont package
 'ttf-roboto'
 'zoom' # video conferences
-'snap-pac'
 )
 
 for PKG in "${PKGS[@]}"; do
